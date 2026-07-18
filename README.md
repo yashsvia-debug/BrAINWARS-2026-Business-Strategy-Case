@@ -34,3 +34,8 @@ The solution required balancing market opportunity, financial feasibility, AI sc
 - Financial Analysis
 - Data Interpretation
 - Strategic Decision Making
+
+## Repository Contents
+
+- [Case Problem](Case_Problem.pdf)
+- [Solution Deck](Solution_Deck.pdf)
